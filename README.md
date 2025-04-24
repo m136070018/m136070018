@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 
-My name is YUNG-TANG,Chuang.
-I am studying at Sun Yat-sen University.
-I am currently a first-year master's student.
-I come from CHUHUA
-Thank you!
+My name is YUNG-TANG,Chuang.  
+I am studying at Sun Yat-sen University.  
+I am currently a first-year master's student.  
+I come from CHUHUA.  
+Thank you!  
